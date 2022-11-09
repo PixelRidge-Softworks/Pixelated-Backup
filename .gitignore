@@ -54,4 +54,7 @@ build-iPhoneSimulator/
 
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
-~/RubymineProjects/Pixelated-Backup/.idea/
+/home/vetheon/RubymineProjects/Pixelated-Backup/.idea/misc.xml
+/home/vetheon/RubymineProjects/Pixelated-Backup/.idea/modules.xml
+/home/vetheon/RubymineProjects/Pixelated-Backup/.idea/Pixelated-Backup.iml
+/home/vetheon/RubymineProjects/Pixelated-Backup/.idea/vcs.xml
