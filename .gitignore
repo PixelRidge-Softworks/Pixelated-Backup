@@ -55,7 +55,7 @@ build-iPhoneSimulator/
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*
 .idea
-vcs.xml
-misc.xml
-Pixelated-Backup.iml
-modules.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/Pixelated-Backup.iml
+.idea/modules.xml
